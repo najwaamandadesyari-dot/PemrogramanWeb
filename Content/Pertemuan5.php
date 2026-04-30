@@ -137,11 +137,11 @@
 <?php include '../Assets/v1/navbar.php'; ?>
 
 <section class="page-title">
-    <h1>Pertemuan 5 Pemrograman Web</h1>
 </section>
 
 <main>
     <div class="container">
+        <h1>Pertemuan 5 Pemrograman Web</h1>
     </div>
 </main>
 
