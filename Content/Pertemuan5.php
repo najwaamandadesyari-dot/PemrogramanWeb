@@ -142,10 +142,6 @@
 
 <main>
     <div class="container">
-        <h1>Konten Pertemuan 5</h1>
-        <p class="deskripsi">
-            Halaman ini menampilkan konten materi Pertemuan 5 dengan background yang menarik dan responsive.
-        </p>
     </div>
 </main>
 
