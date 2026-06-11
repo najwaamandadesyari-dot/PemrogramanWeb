@@ -122,6 +122,12 @@
                     </a>
                   </li>
                   <li class="nav-item">
+                    <a href="/PemrogramanWeb/Content/Pertemuan10.php" class="nav-link">
+                      <i class="nav-icon bi bi-circle"></i>
+                      <p>Pertemuan 10</p>
+                    </a>
+                  </li>
+                  <li class="nav-item">
                     <a href="/PemrogramanWeb/Content/Tugaspertemuan9.php" class="nav-link">
                       <i class="nav-icon bi bi-circle"></i>
                       <p>Tugas Pertemuan 9</p>

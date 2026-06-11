@@ -13,7 +13,7 @@ date_default_timezone_set('Asia/Jakarta');
 
 $time = date('H:i');
 $jam = date('H');
-$nama = "Mahasiswa";
+$nama = "Najwa";
 
 if ($jam < 12) {
     $salam = "Selamat pagi";
@@ -63,6 +63,15 @@ if ($hasil2 > 10) {
 
 <hr>
 
+    <h3>Hitung Mundur : </h3>
+       <?php
+
+        for ($i = 10; $i > 0; $i--) {
+            echo $i . " ,";
+        }
+        ?>
+
+    
 <form method="POST">
     <input type="number" placeholder="Masukkan umur Anda" name="umur" required>
     <button type="submit" name="submit">Cek Status</button>
