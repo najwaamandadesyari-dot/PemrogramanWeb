@@ -128,6 +128,24 @@
                     </a>
                   </li>
                   <li class="nav-item">
+                    <a href="/PemrogramanWeb/Content/Pertemuan11.php" class="nav-link">
+                      <i class="nav-icon bi bi-circle"></i>
+                      <p>Pertemuan 11</p>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/PemrogramanWeb/Content/Pertemuan12&13.php" class="nav-link">
+                      <i class="nav-icon bi bi-circle"></i>
+                      <p>Pertemuan 12 & 13</p>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/PemrogramanWeb/Content/Pertemuan14.php" class="nav-link">
+                      <i class="nav-icon bi bi-circle"></i>
+                      <p>Pertemuan 14</p>
+                    </a>
+                  </li>
+                  <li class="nav-item">
                     <a href="/PemrogramanWeb/Content/Tugaspertemuan9.php" class="nav-link">
                       <i class="nav-icon bi bi-circle"></i>
                       <p>Tugas Pertemuan 9</p>
